@@ -14,3 +14,5 @@ Papers about  Person Search via Deep Learning 持续更新中
   <sup>4</sup>Panasonic R&D Center Singapore;
   <sup>5</sup>Southwest Jiaotong University;
   <sup>6</sup>360 AI Institute
+* Person Search via A Mask-Guided Two-Stream CNN Model
+  * Authors: Di Chen, [Shanshan Zhang](https://sites.google.com/site/shanshanzhangshomepage/)<sup>⋆</sup>, [Wanli Ouyang](https://wlouyang.github.io/), [Jian Yang](http://cs.njust.edu.cn/24/2d/c1732a9261/page.htm)<sup>⋆</sup>, and [Ying Tai](https://tyshiwo.github.io/)
