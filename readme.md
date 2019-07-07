@@ -5,6 +5,7 @@ Papers about  Person Search via Deep Learning 持续更新中
 * [2018](#2018)
 * [2017](#2017)
 ### 2019
+* Learning Context Graph for Person Search  **[CVPR'19 oral]** [[PDF](https://arxiv.org/abs/1904.01830?context=cs.CV) [[official code-pytorch](https://github.com/sjtuzq/person_search_gcn)]
 * Query-guided End-to-End Person Search **[CVPR'19]** [[PDF](https://arxiv.org/abs/1905.01203)] [[official test code](https://github.com/munjalbharti/Query-guided-End-to-End-Person-Search)]
 ### 2018
 * Person Search via A Mask-Guided Two-Stream CNN Model **[ECCV'18]** [[PDF](https://arxiv.org/abs/1807.08107?context=cs)]
@@ -19,5 +20,5 @@ Papers about  Person Search via Deep Learning 持续更新中
   <sup>4</sup>Panasonic R&D Center Singapore;
   <sup>5</sup>Southwest Jiaotong University;
   <sup>6</sup>360 AI Institute
-* Joint Detection and Identification Feature Learning for Person Search **[CVPR'17]** [[PDF](https://arxiv.org/abs/1604.01850)] [[official code-caffe](https://github.com/ShuangLI59/person_search)]
+* Joint Detection and Identification Feature Learning for Person Search **[CVPR'17]** [[PDF](https://arxiv.org/abs/1604.01850)] [[official code-caffe](https://github.com/ShuangLI59/person_search)] [[code-pytorch](https://github.com/liliangqi/person_search)]
   * Authors: [Tong Xiao](http://xiaotong.me/), Shuang Li, Bochao Wang, Liang Lin, Xiaogang Wang
