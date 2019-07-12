@@ -20,5 +20,5 @@ Papers about  Person Search via Deep Learning 持续更新中
   <sup>4</sup>Panasonic R&D Center Singapore;
   <sup>5</sup>Southwest Jiaotong University;
   <sup>6</sup>360 AI Institute
-* Joint Detection and Identification Feature Learning for Person Search **[CVPR'17]** [[PDF](https://arxiv.org/abs/1604.01850)] [[official code-caffe](https://github.com/ShuangLI59/person_search)] [[code-pytorch](https://github.com/liliangqi/person_search)]
+* Joint Detection and Identification Feature Learning for Person Search **[CVPR'17]** [[PDF](https://arxiv.org/abs/1604.01850)] [[official code-caffe](https://github.com/ShuangLI59/person_search)] [[code-pytorch](https://github.com/liliangqi/person_search)] [[data_CUHK-SYSU](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html)]
   * Authors: [Tong Xiao](http://xiaotong.me/), Shuang Li, Bochao Wang, Liang Lin, Xiaogang Wang
