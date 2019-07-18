@@ -12,6 +12,8 @@ Papers about  Person Search via Deep Learning 持续更新中
   * Authors: Di Chen, [Shanshan Zhang](https://sites.google.com/site/shanshanzhangshomepage/)<sup>⋆</sup>, [Wanli Ouyang](https://wlouyang.github.io/), [Jian Yang](http://cs.njust.edu.cn/24/2d/c1732a9261/page.htm)<sup>⋆</sup>, and [Ying Tai](https://tyshiwo.github.io/)
 * Person Search by Multi-Scale Matching **[ECCV'18]** [[PDF](https://arxiv.org/pdf/1807.08582.pdf)]
   * [Xu Lan](http://www.eecs.qmul.ac.uk/~xl309/), [Xiatian Zhu](http://www.eecs.qmul.ac.uk/~xiatian/), and [Shaogang Gong](http://www.eecs.qmul.ac.uk/~sgg/)
+* Person Search in Videos with One Portrait Through Visual and Temporal Links **[ECCV'18]** [[PDF](https://arxiv.org/pdf/1807.10510.pdf)]
+  * Qingqiu Huang, Wentao Liu, and Dahua Lin
 ### 2017
 * IAN: The Individual Aggregation Network for Person Search **[Pattern Recognition'17]** [[PDF](https://arxiv.org/abs/1705.05552)]
   * Authors: Hao Liu<sup>1</sup>; Jiashi Feng<sup>2</sup>; Zequn Jie<sup>3</sup>; Karlekar Jayashree<sup>4</sup>; Bo Zhao<sup>5</sup>; Meibin Qi<sup>1</sup>; Jianguo Jiang<sup>1</sup>; Shuicheng Yan<sup>6,2</sup>
