@@ -15,6 +15,8 @@ Papers about  Person Search via Deep Learning 持续更新中
 * Person Search in Videos with One Portrait Through Visual and Temporal Links **[ECCV'18]** [[PDF](https://arxiv.org/pdf/1807.10510.pdf)]
   * Qingqiu Huang, Wentao Liu, and Dahua Lin
 ### 2017
+* Neural Person Search Machines **[ICCV'17]** [[PDF](https://arxiv.org/abs/1707.06777)]
+  * Hao Liu,Jiashi Feng,Zequn Jie, Karlekar Jayashree, Bo Zhao, Meibin Qi, Jianguo Jiang, Shuicheng Yan
 * IAN: The Individual Aggregation Network for Person Search **[Pattern Recognition'17]** [[PDF](https://arxiv.org/abs/1705.05552)]
   * Authors: Hao Liu<sup>1</sup>; Jiashi Feng<sup>2</sup>; Zequn Jie<sup>3</sup>; Karlekar Jayashree<sup>4</sup>; Bo Zhao<sup>5</sup>; Meibin Qi<sup>1</sup>; Jianguo Jiang<sup>1</sup>; Shuicheng Yan<sup>6,2</sup>
   * Affliations
